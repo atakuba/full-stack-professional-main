@@ -1,4 +1,5 @@
 # 🧑‍💻 Full Stack Professional Project
+<img width="1536" height="1024" alt="ChatGPT Image Jul 23, 2025, 12_21_23 PM" src="https://github.com/user-attachments/assets/9e7955dd-bc4e-4354-9695-c719f993bb30" />
 
 This project is a complete full-stack application built with modern web development technologies including **React**, **Spring Boot**, **PostgreSQL**, and **AWS**. It demonstrates best practices in front-end and back-end development, secure authentication, and cloud deployment.
 
